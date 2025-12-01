@@ -128,3 +128,4 @@ void dibujaSalida(int x, int y, int r, boolean activo, String label)
     text(label, x, y);
     popStyle();
 }
+
